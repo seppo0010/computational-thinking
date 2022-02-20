@@ -1,5 +1,7 @@
 # ¿Deberíamos todos aprender a programar?
 
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) Sebastian Waisbrot
+
 ![Should everyone learn to code? Forbes, Wired, Quora](shouldeveryone.png)
 
 ## Pensamiento Computacional
